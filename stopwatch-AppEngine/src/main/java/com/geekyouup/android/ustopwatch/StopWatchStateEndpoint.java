@@ -137,7 +137,7 @@ public class StopWatchStateEndpoint {
         return stopWatchState;
     }
 
-    private static final String API_KEY = "";
+    private static final String API_KEY = "AIzaSyBEKkKCL4NwEG18AIhXtLKI5q8wfmuaaIU";
     private static final DeviceInfoEndpoint endpoint = new DeviceInfoEndpoint();
     private static Result doSendViaGcm(String message, Sender sender,
                                        DeviceInfo deviceInfo) throws IOException {
