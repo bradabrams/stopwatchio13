@@ -1,0 +1,63 @@
+{
+  "extends" : "thirdParty.api",
+  "abstract" : false,
+  "root" : "https://cloud-watch-demo.appspot.com/_ah/api",
+  "name" : "messageEndpoint",
+  "version" : "v1",
+  "defaultVersion" : false,
+  "adapter" : {
+    "bns" : "https://cloud-watch-demo.appspot.com/_ah/spi",
+    "deadline" : 10.0,
+    "type" : "lily"
+  },
+  "auth" : {
+    "allowCookieAuth" : false
+  },
+  "frontendLimits" : {
+    "unregisteredUserQps" : -1,
+    "unregisteredQps" : -1,
+    "unregisteredDaily" : -1,
+    "rules" : [ ]
+  },
+  "cacheControl" : {
+    "type" : "no-cache",
+    "maxAge" : 0
+  },
+  "ownerDomain" : "geekyouup.com",
+  "ownerName" : "geekyouup.com",
+  "packagePath" : "android.ustopwatch",
+  "methods" : {
+    "messageEndpoint.sendMessage" : {
+      "path" : "sendMessage/{message}/{sourceDevice}",
+      "httpMethod" : "POST",
+      "scopes" : [ ],
+      "audiences" : [ ],
+      "clientIds" : [ ],
+      "rosyMethod" : "com.geekyouup.android.ustopwatch.MessageEndpoint.sendMessage",
+      "request" : {
+        "parameters" : {
+          "message" : {
+            "type" : "string",
+            "required" : true
+          },
+          "sourceDevice" : {
+            "type" : "string",
+            "required" : true
+          }
+        },
+        "body" : "empty"
+      },
+      "response" : {
+        "body" : "empty"
+      }
+    }
+  },
+  "descriptor" : {
+    "schemas" : {
+    },
+    "methods" : {
+      "com.geekyouup.android.ustopwatch.MessageEndpoint.sendMessage" : {
+      }
+    }
+  }
+}

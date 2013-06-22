@@ -1,0 +1,3 @@
+int id msgView 0x7f030000
+int id regButton 0x7f030001
+int layout activity_register 0x7f020000

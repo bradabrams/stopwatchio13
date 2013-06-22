@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/bma/Desktop/StopwatchProject/stopwatch-Endpoints/src/main/res" >
+            <file
+                name="activity_register"
+                path="/Users/bma/Desktop/StopwatchProject/stopwatch-Endpoints/src/main/res/layout/activity_register.xml"
+                qualifiers=""
+                type="layout" />
+        </source>
+        <source path="/Users/bma/Desktop/StopwatchProject/stopwatch-Endpoints/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/bma/Desktop/StopwatchProject/stopwatch-Endpoints/src/debug/res" />
+    </dataSet>
+
+</merger>

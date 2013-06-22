@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/bma/Desktop/StopwatchProject/ActionBarSherlock/src/main/assets" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="/Users/bma/Desktop/StopwatchProject/ActionBarSherlock/src/release/assets" />
+    </dataSet>
+
+</merger>

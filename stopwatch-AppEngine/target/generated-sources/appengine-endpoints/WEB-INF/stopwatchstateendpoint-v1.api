@@ -1,0 +1,200 @@
+{
+  "extends" : "thirdParty.api",
+  "abstract" : false,
+  "root" : "https://cloudstopwatchdemo.appspot.com/_ah/api",
+  "name" : "stopwatchstateendpoint",
+  "version" : "v1",
+  "defaultVersion" : false,
+  "adapter" : {
+    "bns" : "https://cloudstopwatchdemo.appspot.com/_ah/spi",
+    "deadline" : 10.0,
+    "type" : "lily"
+  },
+  "auth" : {
+    "allowCookieAuth" : false
+  },
+  "frontendLimits" : {
+    "unregisteredUserQps" : -1,
+    "unregisteredQps" : -1,
+    "unregisteredDaily" : -1,
+    "rules" : [ ]
+  },
+  "cacheControl" : {
+    "type" : "no-cache",
+    "maxAge" : 0
+  },
+  "ownerDomain" : "geekyouup.com",
+  "ownerName" : "geekyouup.com",
+  "packagePath" : "android.ustopwatch",
+  "methods" : {
+    "stopwatchstateendpoint.listStopWatchState" : {
+      "path" : "stopwatchstate",
+      "httpMethod" : "GET",
+      "scopes" : [ ],
+      "audiences" : [ ],
+      "clientIds" : [ ],
+      "rosyMethod" : "com.geekyouup.android.ustopwatch.StopWatchStateEndpoint.listStopWatchState",
+      "request" : {
+        "parameters" : {
+          "cursor" : {
+            "type" : "string",
+            "required" : false
+          },
+          "limit" : {
+            "type" : "int32",
+            "required" : false
+          }
+        },
+        "body" : "empty"
+      },
+      "response" : {
+        "body" : "autoTemplate(backendResponse)"
+      }
+    },
+    "stopwatchstateendpoint.updateStopWatchState" : {
+      "path" : "stopwatchstate",
+      "httpMethod" : "PUT",
+      "scopes" : [ ],
+      "audiences" : [ ],
+      "clientIds" : [ ],
+      "rosyMethod" : "com.geekyouup.android.ustopwatch.StopWatchStateEndpoint.updateStopWatchState",
+      "request" : {
+        "body" : "autoTemplate(backendRequest)",
+        "bodyName" : "resource"
+      },
+      "response" : {
+        "body" : "autoTemplate(backendResponse)"
+      }
+    },
+    "stopwatchstateendpoint.insertStopWatchState" : {
+      "path" : "stopwatchstate",
+      "httpMethod" : "POST",
+      "scopes" : [ ],
+      "audiences" : [ ],
+      "clientIds" : [ ],
+      "rosyMethod" : "com.geekyouup.android.ustopwatch.StopWatchStateEndpoint.insertStopWatchState",
+      "request" : {
+        "body" : "autoTemplate(backendRequest)",
+        "bodyName" : "resource"
+      },
+      "response" : {
+        "body" : "autoTemplate(backendResponse)"
+      }
+    },
+    "stopwatchstateendpoint.removeStopWatchState" : {
+      "path" : "stopwatchstate/{id}",
+      "httpMethod" : "DELETE",
+      "scopes" : [ ],
+      "audiences" : [ ],
+      "clientIds" : [ ],
+      "rosyMethod" : "com.geekyouup.android.ustopwatch.StopWatchStateEndpoint.removeStopWatchState",
+      "request" : {
+        "parameters" : {
+          "id" : {
+            "type" : "int64",
+            "required" : true
+          }
+        },
+        "body" : "empty"
+      },
+      "response" : {
+        "body" : "autoTemplate(backendResponse)"
+      }
+    },
+    "stopwatchstateendpoint.getStopWatchState" : {
+      "path" : "stopwatchstate/{id}",
+      "httpMethod" : "GET",
+      "scopes" : [ ],
+      "audiences" : [ ],
+      "clientIds" : [ ],
+      "rosyMethod" : "com.geekyouup.android.ustopwatch.StopWatchStateEndpoint.getStopWatchState",
+      "request" : {
+        "parameters" : {
+          "id" : {
+            "type" : "int64",
+            "required" : true
+          }
+        },
+        "body" : "empty"
+      },
+      "response" : {
+        "body" : "autoTemplate(backendResponse)"
+      }
+    }
+  },
+  "descriptor" : {
+    "schemas" : {
+      "CollectionResponse_StopWatchState" : {
+        "id" : "CollectionResponse_StopWatchState",
+        "type" : "object",
+        "properties" : {
+          "items" : {
+            "type" : "array",
+            "items" : {
+              "$ref" : "StopWatchState"
+            }
+          },
+          "nextPageToken" : {
+            "type" : "string"
+          }
+        }
+      },
+      "StopWatchState" : {
+        "id" : "StopWatchState",
+        "type" : "object",
+        "properties" : {
+          "key" : {
+            "type" : "string",
+            "format" : "int64"
+          },
+          "sourceDevice" : {
+            "type" : "string"
+          },
+          "timestamp" : {
+            "type" : "number"
+          },
+          "serverTimestamp" : {
+            "type" : "string",
+            "format" : "int64"
+          },
+          "running" : {
+            "type" : "boolean"
+          }
+        }
+      }
+    },
+    "methods" : {
+      "com.geekyouup.android.ustopwatch.StopWatchStateEndpoint.listStopWatchState" : {
+        "response" : {
+          "$ref" : "CollectionResponse_StopWatchState"
+        }
+      },
+      "com.geekyouup.android.ustopwatch.StopWatchStateEndpoint.updateStopWatchState" : {
+        "request" : {
+          "$ref" : "StopWatchState"
+        },
+        "response" : {
+          "$ref" : "StopWatchState"
+        }
+      },
+      "com.geekyouup.android.ustopwatch.StopWatchStateEndpoint.insertStopWatchState" : {
+        "request" : {
+          "$ref" : "StopWatchState"
+        },
+        "response" : {
+          "$ref" : "StopWatchState"
+        }
+      },
+      "com.geekyouup.android.ustopwatch.StopWatchStateEndpoint.removeStopWatchState" : {
+        "response" : {
+          "$ref" : "StopWatchState"
+        }
+      },
+      "com.geekyouup.android.ustopwatch.StopWatchStateEndpoint.getStopWatchState" : {
+        "response" : {
+          "$ref" : "StopWatchState"
+        }
+      }
+    }
+  }
+}

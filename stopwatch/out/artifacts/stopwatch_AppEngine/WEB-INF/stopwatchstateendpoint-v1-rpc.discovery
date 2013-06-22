@@ -1,0 +1,138 @@
+{
+ "kind": "discovery#rpcDescription",
+ "etag": "\"_eRzJ5rb6y2Sm1GT1st-3xOUuXg/0MtvazscpVWQq6PE-6nyqwgOgJk\"",
+ "discoveryVersion": "v1",
+ "id": "stopwatchstateendpoint:v1",
+ "name": "stopwatchstateendpoint",
+ "version": "v1",
+ "description": "This is an API",
+ "ownerDomain": "geekyouup.com",
+ "ownerName": "geekyouup.com",
+ "packagePath": "android.ustopwatch",
+ "icons": {
+  "x16": "http://www.google.com/images/icons/product/search-16.gif",
+  "x32": "http://www.google.com/images/icons/product/search-32.gif"
+ },
+ "protocol": "rpc",
+ "rootUrl": "https://cloud-watch-demo.appspot.com/_ah/api/",
+ "rpcUrl": "https://cloud-watch-demo.appspot.com/_ah/api/rpc",
+ "rpcPath": "/_ah/api/rpc",
+ "parameters": {
+  "alt": {
+   "type": "string",
+   "description": "Data format for the response.",
+   "default": "json",
+   "enum": [
+    "json"
+   ],
+   "enumDescriptions": [
+    "Responses with Content-Type of application/json"
+   ],
+   "location": "query"
+  },
+  "fields": {
+   "type": "string",
+   "description": "Selector specifying which fields to include in a partial response.",
+   "location": "query"
+  },
+  "key": {
+   "type": "string",
+   "description": "API key. Your API key identifies your project and provides you with API access, quota, and reports. Required unless you provide an OAuth 2.0 token.",
+   "location": "query"
+  },
+  "oauth_token": {
+   "type": "string",
+   "description": "OAuth 2.0 token for the current user.",
+   "location": "query"
+  },
+  "prettyPrint": {
+   "type": "boolean",
+   "description": "Returns response with indentations and line breaks.",
+   "default": "true",
+   "location": "query"
+  },
+  "quotaUser": {
+   "type": "string",
+   "description": "Available to use for quota purposes for server-side applications. Can be any arbitrary string assigned to a user, but should not exceed 40 characters. Overrides userIp if both are provided.",
+   "location": "query"
+  },
+  "userIp": {
+   "type": "string",
+   "description": "IP address of the site where the request originates. Use this if you want to enforce per-user limits.",
+   "location": "query"
+  }
+ },
+ "schemas": {
+  "StopWatchState": {
+   "id": "StopWatchState",
+   "type": "object",
+   "properties": {
+    "key": {
+     "type": "string"
+    },
+    "running": {
+     "type": "boolean"
+    },
+    "sourceDevice": {
+     "type": "string"
+    },
+    "timestamp": {
+     "type": "number",
+     "format": "double"
+    }
+   }
+  }
+ },
+ "methods": {
+  "stopwatchstateendpoint.getStopWatchState": {
+   "id": "stopwatchstateendpoint.getStopWatchState",
+   "allowGet": true,
+   "returns": {
+    "$ref": "StopWatchState"
+   }
+  },
+  "stopwatchstateendpoint.insertStopWatchState": {
+   "id": "stopwatchstateendpoint.insertStopWatchState",
+   "parameters": {
+    "resource": {
+     "$ref": "StopWatchState"
+    }
+   },
+   "parameterOrder": [
+    "resource"
+   ],
+   "returns": {
+    "$ref": "StopWatchState"
+   }
+  },
+  "stopwatchstateendpoint.removeStopWatchState": {
+   "id": "stopwatchstateendpoint.removeStopWatchState",
+   "parameters": {
+    "id": {
+     "type": "string",
+     "required": true
+    }
+   },
+   "parameterOrder": [
+    "id"
+   ],
+   "returns": {
+    "$ref": "StopWatchState"
+   }
+  },
+  "stopwatchstateendpoint.updateStopWatchState": {
+   "id": "stopwatchstateendpoint.updateStopWatchState",
+   "parameters": {
+    "resource": {
+     "$ref": "StopWatchState"
+    }
+   },
+   "parameterOrder": [
+    "resource"
+   ],
+   "returns": {
+    "$ref": "StopWatchState"
+   }
+  }
+ }
+}
