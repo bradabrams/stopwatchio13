@@ -10,6 +10,7 @@ import com.google.api.server.spi.config.ApiNamespace;
 import com.google.api.server.spi.response.CollectionResponse;
 import com.google.appengine.api.datastore.Cursor;
 import com.google.appengine.datanucleus.query.JPACursorHelper;
+import java.util.logging.Logger;
 
 import java.io.IOException;
 import java.util.List;
@@ -23,6 +24,9 @@ import javax.persistence.Query;
 
 @Api(name = "stopwatchstateendpoint", namespace = @ApiNamespace(ownerDomain = "geekyouup.com", ownerName = "geekyouup.com", packagePath = "android.ustopwatch"))
 public class StopWatchStateEndpoint {
+
+
+    private static final Logger log = Logger.getLogger(StopWatchStateEndpoint.class.getName());
 
     /**
      * This method lists all the entities inserted in datastore.
@@ -128,7 +132,13 @@ public class StopWatchStateEndpoint {
                     10);
             for (DeviceInfo deviceInfo : response.getItems()) {
                // if(!deviceInfo.getDeviceRegistrationID().equals(stopWatchState.getSourceDevice())) {
+                  try {
+                    log.info("tickling device + " + deviceInfo.getDeviceInformation());
                     doSendViaGcm("tickle", sender, deviceInfo);
+                  } catch (Exception e)
+                  {
+                      log.severe("can't pint device " + deviceInfo + "error " + e.toString());
+                  }
                // }
             }
         } finally {

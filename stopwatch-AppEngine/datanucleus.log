@@ -78,3 +78,43 @@
 22:57:04,347 (main) INFO  [DataNucleus.Enhancer] - Class "com.geekyouup.android.ustopwatch.DeviceInfo" is already enhanced.
 22:57:04,350 (main) INFO  [DataNucleus.Enhancer] - Class "com.geekyouup.android.ustopwatch.StopWatchState" is already enhanced.
 22:57:04,350 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 2 classes. Timings : input=301 ms, enhance=34 ms, total=335 ms. Consult the log for full details
+16:44:32,073 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+16:44:32,468 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+16:44:32,902 (main) INFO  [DataNucleus.Enhancer] - Class "com.geekyouup.android.ustopwatch.DeviceInfo" is already enhanced.
+16:44:32,906 (main) INFO  [DataNucleus.Enhancer] - Class "com.geekyouup.android.ustopwatch.StopWatchState" is already enhanced.
+16:44:32,907 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 2 classes. Timings : input=385 ms, enhance=52 ms, total=437 ms. Consult the log for full details
+16:44:56,594 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+16:44:56,913 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+16:44:57,284 (main) INFO  [DataNucleus.Enhancer] - Class "com.geekyouup.android.ustopwatch.DeviceInfo" is already enhanced.
+16:44:57,287 (main) INFO  [DataNucleus.Enhancer] - Class "com.geekyouup.android.ustopwatch.StopWatchState" is already enhanced.
+16:44:57,288 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 2 classes. Timings : input=338 ms, enhance=34 ms, total=372 ms. Consult the log for full details
+16:45:49,549 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+16:45:49,885 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+16:45:50,246 (main) INFO  [DataNucleus.Enhancer] - Class "com.geekyouup.android.ustopwatch.DeviceInfo" is already enhanced.
+16:45:50,249 (main) INFO  [DataNucleus.Enhancer] - Class "com.geekyouup.android.ustopwatch.StopWatchState" is already enhanced.
+16:45:50,249 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 2 classes. Timings : input=324 ms, enhance=37 ms, total=361 ms. Consult the log for full details
+16:46:22,870 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+16:46:23,221 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+16:46:23,584 (main) INFO  [DataNucleus.Enhancer] - Class "com.geekyouup.android.ustopwatch.DeviceInfo" is already enhanced.
+16:46:23,588 (main) INFO  [DataNucleus.Enhancer] - Class "com.geekyouup.android.ustopwatch.StopWatchState" is already enhanced.
+16:46:23,589 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 2 classes. Timings : input=325 ms, enhance=39 ms, total=364 ms. Consult the log for full details
+16:47:13,904 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+16:47:14,249 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+16:47:14,648 (main) INFO  [DataNucleus.Enhancer] - Class "com.geekyouup.android.ustopwatch.DeviceInfo" is already enhanced.
+16:47:14,651 (main) INFO  [DataNucleus.Enhancer] - Class "com.geekyouup.android.ustopwatch.StopWatchState" is already enhanced.
+16:47:14,651 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 2 classes. Timings : input=356 ms, enhance=45 ms, total=401 ms. Consult the log for full details
+17:16:44,202 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+17:16:44,834 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+17:16:45,226 (main) INFO  [DataNucleus.Enhancer] - Class "com.geekyouup.android.ustopwatch.DeviceInfo" is already enhanced.
+17:16:45,232 (main) INFO  [DataNucleus.Enhancer] - Class "com.geekyouup.android.ustopwatch.StopWatchState" is already enhanced.
+17:16:45,233 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 2 classes. Timings : input=357 ms, enhance=40 ms, total=397 ms. Consult the log for full details
+17:47:21,468 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+17:47:21,890 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+17:47:22,260 (main) INFO  [DataNucleus.Enhancer] - Class "com.geekyouup.android.ustopwatch.DeviceInfo" is already enhanced.
+17:47:22,264 (main) INFO  [DataNucleus.Enhancer] - Class "com.geekyouup.android.ustopwatch.StopWatchState" is already enhanced.
+17:47:22,265 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 2 classes. Timings : input=334 ms, enhance=38 ms, total=372 ms. Consult the log for full details
+17:50:21,985 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+17:50:22,358 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+17:50:22,733 (main) INFO  [DataNucleus.Enhancer] - Class "com.geekyouup.android.ustopwatch.DeviceInfo" is already enhanced.
+17:50:22,737 (main) INFO  [DataNucleus.Enhancer] - Class "com.geekyouup.android.ustopwatch.StopWatchState" is already enhanced.
+17:50:22,738 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 2 classes. Timings : input=340 ms, enhance=38 ms, total=378 ms. Consult the log for full details

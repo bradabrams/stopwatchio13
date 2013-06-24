@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="ActionBarSherlock.aar" >
+        <source path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/assets" />
+    </dataSet>
+    <dataSet config="stopwatch-Endpoints.aar" >
+        <source path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/stopwatch-Endpoints.aar/assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/assets" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="/Users/bma/Projects/stopwatchio13/stopwatch/src/release/assets" />
+    </dataSet>
+
+</merger>

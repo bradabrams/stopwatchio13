@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ActionBarSherlock/ActionBarSherlock.iml" filepath="$PROJECT_DIR$/ActionBarSherlock/ActionBarSherlock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stopwatch/stopwatch.iml" filepath="$PROJECT_DIR$/stopwatch/stopwatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stopwatch-AppEngine/stopwatch-AppEngine.iml" filepath="$PROJECT_DIR$/stopwatch-AppEngine/stopwatch-AppEngine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stopwatch-Endpoints/stopwatch-Endpoints.iml" filepath="$PROJECT_DIR$/stopwatch-Endpoints/stopwatch-Endpoints.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stopwatchio13.iml" filepath="$PROJECT_DIR$/stopwatchio13.iml" />
+    </modules>
+  </component>
+</project>
+

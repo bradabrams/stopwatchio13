@@ -2,10 +2,10 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="/Users/bma/Desktop/StopwatchProject/stopwatch-Endpoints/src/main/assets" />
+        <source path="/Users/bma/Projects/stopwatchio13/stopwatch-Endpoints/src/main/assets" />
     </dataSet>
     <dataSet config="release" >
-        <source path="/Users/bma/Desktop/StopwatchProject/stopwatch-Endpoints/src/release/assets" />
+        <source path="/Users/bma/Projects/stopwatchio13/stopwatch-Endpoints/src/release/assets" />
     </dataSet>
 
 </merger>

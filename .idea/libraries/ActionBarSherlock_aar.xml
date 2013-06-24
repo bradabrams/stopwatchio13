@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ActionBarSherlock.aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

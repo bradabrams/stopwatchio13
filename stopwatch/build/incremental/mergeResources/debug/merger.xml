@@ -2,1264 +2,1264 @@
 <merger xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" >
 
     <dataSet config="ActionBarSherlock.aar" >
-        <source path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res" >
+        <source path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res" >
             <file
                 name="abs__primary_text_disable_only_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/color/abs__primary_text_disable_only_holo_dark.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/color/abs__primary_text_disable_only_holo_dark.xml"
                 qualifiers=""
                 type="color" />
             <file
                 name="abs__primary_text_disable_only_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/color/abs__primary_text_disable_only_holo_light.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/color/abs__primary_text_disable_only_holo_light.xml"
                 qualifiers=""
                 type="color" />
             <file
                 name="abs__primary_text_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/color/abs__primary_text_holo_dark.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/color/abs__primary_text_holo_dark.xml"
                 qualifiers=""
                 type="color" />
             <file
                 name="abs__primary_text_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/color/abs__primary_text_holo_light.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/color/abs__primary_text_holo_light.xml"
                 qualifiers=""
                 type="color" />
             <file
                 name="abs__activated_background_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable/abs__activated_background_holo_dark.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable/abs__activated_background_holo_dark.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abs__activated_background_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable/abs__activated_background_holo_light.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable/abs__activated_background_holo_light.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abs__btn_cab_done_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable/abs__btn_cab_done_holo_dark.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable/abs__btn_cab_done_holo_dark.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abs__btn_cab_done_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable/abs__btn_cab_done_holo_light.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable/abs__btn_cab_done_holo_light.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abs__ic_menu_moreoverflow_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable/abs__ic_menu_moreoverflow_holo_dark.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable/abs__ic_menu_moreoverflow_holo_dark.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abs__ic_menu_moreoverflow_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable/abs__ic_menu_moreoverflow_holo_light.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable/abs__ic_menu_moreoverflow_holo_light.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abs__item_background_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable/abs__item_background_holo_dark.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable/abs__item_background_holo_dark.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abs__item_background_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable/abs__item_background_holo_light.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable/abs__item_background_holo_light.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abs__list_selector_background_transition_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable/abs__list_selector_background_transition_holo_dark.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable/abs__list_selector_background_transition_holo_dark.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abs__list_selector_background_transition_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable/abs__list_selector_background_transition_holo_light.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable/abs__list_selector_background_transition_holo_light.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abs__list_selector_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable/abs__list_selector_holo_dark.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable/abs__list_selector_holo_dark.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abs__list_selector_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable/abs__list_selector_holo_light.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable/abs__list_selector_holo_light.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abs__progress_horizontal_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable/abs__progress_horizontal_holo_dark.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable/abs__progress_horizontal_holo_dark.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abs__progress_horizontal_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable/abs__progress_horizontal_holo_light.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable/abs__progress_horizontal_holo_light.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abs__progress_medium_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable/abs__progress_medium_holo.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable/abs__progress_medium_holo.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abs__spinner_ab_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable/abs__spinner_ab_holo_dark.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable/abs__spinner_ab_holo_dark.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abs__spinner_ab_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable/abs__spinner_ab_holo_light.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable/abs__spinner_ab_holo_light.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abs__tab_indicator_ab_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable/abs__tab_indicator_ab_holo.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable/abs__tab_indicator_ab_holo.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abs__ab_bottom_solid_dark_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ab_bottom_solid_dark_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ab_bottom_solid_dark_holo.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ab_bottom_solid_inverse_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ab_bottom_solid_inverse_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ab_bottom_solid_inverse_holo.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ab_bottom_solid_light_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ab_bottom_solid_light_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ab_bottom_solid_light_holo.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ab_bottom_transparent_dark_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ab_bottom_transparent_dark_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ab_bottom_transparent_dark_holo.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ab_bottom_transparent_light_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ab_bottom_transparent_light_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ab_bottom_transparent_light_holo.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ab_share_pack_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ab_share_pack_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ab_share_pack_holo_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ab_share_pack_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ab_share_pack_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ab_share_pack_holo_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ab_solid_dark_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ab_solid_dark_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ab_solid_dark_holo.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ab_solid_light_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ab_solid_light_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ab_solid_light_holo.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ab_solid_shadow_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ab_solid_shadow_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ab_solid_shadow_holo.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ab_stacked_solid_dark_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ab_stacked_solid_dark_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ab_stacked_solid_dark_holo.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ab_stacked_solid_light_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ab_stacked_solid_light_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ab_stacked_solid_light_holo.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ab_stacked_transparent_dark_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ab_stacked_transparent_dark_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ab_stacked_transparent_dark_holo.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ab_stacked_transparent_light_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ab_stacked_transparent_light_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ab_stacked_transparent_light_holo.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ab_transparent_dark_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ab_transparent_dark_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ab_transparent_dark_holo.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ab_transparent_light_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ab_transparent_light_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ab_transparent_light_holo.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__btn_cab_done_default_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__btn_cab_done_default_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__btn_cab_done_default_holo_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__btn_cab_done_default_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__btn_cab_done_default_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__btn_cab_done_default_holo_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__btn_cab_done_focused_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__btn_cab_done_focused_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__btn_cab_done_focused_holo_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__btn_cab_done_focused_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__btn_cab_done_focused_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__btn_cab_done_focused_holo_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__btn_cab_done_pressed_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__btn_cab_done_pressed_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__btn_cab_done_pressed_holo_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__btn_cab_done_pressed_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__btn_cab_done_pressed_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__btn_cab_done_pressed_holo_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__cab_background_bottom_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__cab_background_bottom_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__cab_background_bottom_holo_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__cab_background_bottom_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__cab_background_bottom_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__cab_background_bottom_holo_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__cab_background_top_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__cab_background_top_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__cab_background_top_holo_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__cab_background_top_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__cab_background_top_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__cab_background_top_holo_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__dialog_full_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__dialog_full_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__dialog_full_holo_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__dialog_full_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__dialog_full_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__dialog_full_holo_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ic_ab_back_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ic_ab_back_holo_dark.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ic_ab_back_holo_dark.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ic_ab_back_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ic_ab_back_holo_light.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ic_ab_back_holo_light.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ic_cab_done_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ic_cab_done_holo_dark.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ic_cab_done_holo_dark.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ic_cab_done_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ic_cab_done_holo_light.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ic_cab_done_holo_light.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ic_menu_moreoverflow_normal_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ic_menu_moreoverflow_normal_holo_dark.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ic_menu_moreoverflow_normal_holo_dark.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ic_menu_moreoverflow_normal_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ic_menu_moreoverflow_normal_holo_light.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ic_menu_moreoverflow_normal_holo_light.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ic_menu_share_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ic_menu_share_holo_dark.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ic_menu_share_holo_dark.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ic_menu_share_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ic_menu_share_holo_light.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__ic_menu_share_holo_light.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__list_activated_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__list_activated_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__list_activated_holo.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__list_divider_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__list_divider_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__list_divider_holo_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__list_divider_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__list_divider_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__list_divider_holo_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__list_focused_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__list_focused_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__list_focused_holo.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__list_longpressed_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__list_longpressed_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__list_longpressed_holo.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__list_pressed_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__list_pressed_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__list_pressed_holo_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__list_pressed_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__list_pressed_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__list_pressed_holo_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__list_selector_disabled_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__list_selector_disabled_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__list_selector_disabled_holo_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__list_selector_disabled_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__list_selector_disabled_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__list_selector_disabled_holo_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__menu_dropdown_panel_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__menu_dropdown_panel_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__menu_dropdown_panel_holo_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__menu_dropdown_panel_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__menu_dropdown_panel_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__menu_dropdown_panel_holo_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__progress_bg_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__progress_bg_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__progress_bg_holo_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__progress_bg_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__progress_bg_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__progress_bg_holo_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__progress_primary_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__progress_primary_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__progress_primary_holo_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__progress_primary_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__progress_primary_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__progress_primary_holo_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__progress_secondary_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__progress_secondary_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__progress_secondary_holo_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__progress_secondary_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__progress_secondary_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__progress_secondary_holo_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_48_inner_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__spinner_48_inner_holo.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__spinner_48_inner_holo.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_48_outer_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__spinner_48_outer_holo.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__spinner_48_outer_holo.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_default_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__spinner_ab_default_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__spinner_ab_default_holo_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_default_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__spinner_ab_default_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__spinner_ab_default_holo_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_disabled_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__spinner_ab_disabled_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__spinner_ab_disabled_holo_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_disabled_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__spinner_ab_disabled_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__spinner_ab_disabled_holo_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_focused_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__spinner_ab_focused_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__spinner_ab_focused_holo_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_focused_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__spinner_ab_focused_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__spinner_ab_focused_holo_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_pressed_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__spinner_ab_pressed_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__spinner_ab_pressed_holo_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_pressed_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__spinner_ab_pressed_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__spinner_ab_pressed_holo_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__tab_selected_focused_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__tab_selected_focused_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__tab_selected_focused_holo.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__tab_selected_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__tab_selected_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__tab_selected_holo.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__tab_selected_pressed_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__tab_selected_pressed_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__tab_selected_pressed_holo.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__tab_unselected_pressed_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__tab_unselected_pressed_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-hdpi/abs__tab_unselected_pressed_holo.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ab_bottom_solid_dark_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ab_bottom_solid_dark_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ab_bottom_solid_dark_holo.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ab_bottom_solid_inverse_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ab_bottom_solid_inverse_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ab_bottom_solid_inverse_holo.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ab_bottom_solid_light_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ab_bottom_solid_light_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ab_bottom_solid_light_holo.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ab_bottom_transparent_dark_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ab_bottom_transparent_dark_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ab_bottom_transparent_dark_holo.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ab_bottom_transparent_light_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ab_bottom_transparent_light_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ab_bottom_transparent_light_holo.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ab_share_pack_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ab_share_pack_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ab_share_pack_holo_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ab_share_pack_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ab_share_pack_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ab_share_pack_holo_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ab_solid_dark_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ab_solid_dark_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ab_solid_dark_holo.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ab_solid_light_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ab_solid_light_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ab_solid_light_holo.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ab_solid_shadow_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ab_solid_shadow_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ab_solid_shadow_holo.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ab_stacked_solid_dark_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ab_stacked_solid_dark_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ab_stacked_solid_dark_holo.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ab_stacked_solid_light_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ab_stacked_solid_light_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ab_stacked_solid_light_holo.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ab_stacked_transparent_dark_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ab_stacked_transparent_dark_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ab_stacked_transparent_dark_holo.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ab_stacked_transparent_light_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ab_stacked_transparent_light_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ab_stacked_transparent_light_holo.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ab_transparent_dark_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ab_transparent_dark_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ab_transparent_dark_holo.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ab_transparent_light_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ab_transparent_light_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ab_transparent_light_holo.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__btn_cab_done_default_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__btn_cab_done_default_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__btn_cab_done_default_holo_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__btn_cab_done_default_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__btn_cab_done_default_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__btn_cab_done_default_holo_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__btn_cab_done_focused_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__btn_cab_done_focused_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__btn_cab_done_focused_holo_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__btn_cab_done_focused_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__btn_cab_done_focused_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__btn_cab_done_focused_holo_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__btn_cab_done_pressed_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__btn_cab_done_pressed_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__btn_cab_done_pressed_holo_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__btn_cab_done_pressed_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__btn_cab_done_pressed_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__btn_cab_done_pressed_holo_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__cab_background_bottom_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__cab_background_bottom_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__cab_background_bottom_holo_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__cab_background_bottom_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__cab_background_bottom_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__cab_background_bottom_holo_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__cab_background_top_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__cab_background_top_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__cab_background_top_holo_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__cab_background_top_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__cab_background_top_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__cab_background_top_holo_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__dialog_full_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__dialog_full_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__dialog_full_holo_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__dialog_full_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__dialog_full_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__dialog_full_holo_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ic_ab_back_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ic_ab_back_holo_dark.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ic_ab_back_holo_dark.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ic_ab_back_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ic_ab_back_holo_light.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ic_ab_back_holo_light.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ic_cab_done_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ic_cab_done_holo_dark.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ic_cab_done_holo_dark.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ic_cab_done_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ic_cab_done_holo_light.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ic_cab_done_holo_light.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ic_menu_moreoverflow_normal_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ic_menu_moreoverflow_normal_holo_dark.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ic_menu_moreoverflow_normal_holo_dark.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ic_menu_moreoverflow_normal_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ic_menu_moreoverflow_normal_holo_light.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ic_menu_moreoverflow_normal_holo_light.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ic_menu_share_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ic_menu_share_holo_dark.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ic_menu_share_holo_dark.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ic_menu_share_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ic_menu_share_holo_light.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__ic_menu_share_holo_light.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__list_activated_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__list_activated_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__list_activated_holo.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__list_divider_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__list_divider_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__list_divider_holo_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__list_divider_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__list_divider_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__list_divider_holo_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__list_focused_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__list_focused_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__list_focused_holo.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__list_longpressed_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__list_longpressed_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__list_longpressed_holo.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__list_pressed_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__list_pressed_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__list_pressed_holo_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__list_pressed_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__list_pressed_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__list_pressed_holo_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__list_selector_disabled_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__list_selector_disabled_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__list_selector_disabled_holo_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__list_selector_disabled_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__list_selector_disabled_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__list_selector_disabled_holo_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__menu_dropdown_panel_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__menu_dropdown_panel_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__menu_dropdown_panel_holo_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__menu_dropdown_panel_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__menu_dropdown_panel_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__menu_dropdown_panel_holo_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__progress_bg_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__progress_bg_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__progress_bg_holo_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__progress_bg_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__progress_bg_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__progress_bg_holo_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__progress_primary_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__progress_primary_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__progress_primary_holo_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__progress_primary_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__progress_primary_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__progress_primary_holo_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__progress_secondary_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__progress_secondary_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__progress_secondary_holo_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__progress_secondary_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__progress_secondary_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__progress_secondary_holo_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_48_inner_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__spinner_48_inner_holo.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__spinner_48_inner_holo.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_48_outer_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__spinner_48_outer_holo.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__spinner_48_outer_holo.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_default_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__spinner_ab_default_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__spinner_ab_default_holo_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_default_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__spinner_ab_default_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__spinner_ab_default_holo_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_disabled_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__spinner_ab_disabled_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__spinner_ab_disabled_holo_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_disabled_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__spinner_ab_disabled_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__spinner_ab_disabled_holo_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_focused_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__spinner_ab_focused_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__spinner_ab_focused_holo_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_focused_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__spinner_ab_focused_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__spinner_ab_focused_holo_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_pressed_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__spinner_ab_pressed_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__spinner_ab_pressed_holo_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_pressed_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__spinner_ab_pressed_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__spinner_ab_pressed_holo_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__tab_selected_focused_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__tab_selected_focused_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__tab_selected_focused_holo.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__tab_selected_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__tab_selected_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__tab_selected_holo.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__tab_selected_pressed_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__tab_selected_pressed_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__tab_selected_pressed_holo.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__tab_unselected_pressed_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__tab_unselected_pressed_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-mdpi/abs__tab_unselected_pressed_holo.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__progress_medium_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-v11/abs__progress_medium_holo.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-v11/abs__progress_medium_holo.xml"
                 qualifiers="v11"
                 type="drawable" />
             <file
                 name="abs__ab_bottom_solid_dark_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ab_bottom_solid_dark_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ab_bottom_solid_dark_holo.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ab_bottom_solid_inverse_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ab_bottom_solid_inverse_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ab_bottom_solid_inverse_holo.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ab_bottom_solid_light_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ab_bottom_solid_light_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ab_bottom_solid_light_holo.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ab_bottom_transparent_dark_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ab_bottom_transparent_dark_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ab_bottom_transparent_dark_holo.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ab_bottom_transparent_light_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ab_bottom_transparent_light_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ab_bottom_transparent_light_holo.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ab_share_pack_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ab_share_pack_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ab_share_pack_holo_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ab_share_pack_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ab_share_pack_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ab_share_pack_holo_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ab_solid_dark_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ab_solid_dark_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ab_solid_dark_holo.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ab_solid_light_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ab_solid_light_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ab_solid_light_holo.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ab_solid_shadow_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ab_solid_shadow_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ab_solid_shadow_holo.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ab_stacked_solid_dark_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ab_stacked_solid_dark_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ab_stacked_solid_dark_holo.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ab_stacked_solid_light_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ab_stacked_solid_light_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ab_stacked_solid_light_holo.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ab_stacked_transparent_dark_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ab_stacked_transparent_dark_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ab_stacked_transparent_dark_holo.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ab_stacked_transparent_light_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ab_stacked_transparent_light_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ab_stacked_transparent_light_holo.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ab_transparent_dark_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ab_transparent_dark_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ab_transparent_dark_holo.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ab_transparent_light_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ab_transparent_light_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ab_transparent_light_holo.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__btn_cab_done_default_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__btn_cab_done_default_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__btn_cab_done_default_holo_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__btn_cab_done_default_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__btn_cab_done_default_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__btn_cab_done_default_holo_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__btn_cab_done_focused_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__btn_cab_done_focused_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__btn_cab_done_focused_holo_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__btn_cab_done_focused_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__btn_cab_done_focused_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__btn_cab_done_focused_holo_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__btn_cab_done_pressed_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__btn_cab_done_pressed_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__btn_cab_done_pressed_holo_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__btn_cab_done_pressed_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__btn_cab_done_pressed_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__btn_cab_done_pressed_holo_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__cab_background_bottom_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__cab_background_bottom_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__cab_background_bottom_holo_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__cab_background_bottom_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__cab_background_bottom_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__cab_background_bottom_holo_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__cab_background_top_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__cab_background_top_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__cab_background_top_holo_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__cab_background_top_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__cab_background_top_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__cab_background_top_holo_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__dialog_full_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__dialog_full_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__dialog_full_holo_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__dialog_full_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__dialog_full_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__dialog_full_holo_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ic_ab_back_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ic_ab_back_holo_dark.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ic_ab_back_holo_dark.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ic_ab_back_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ic_ab_back_holo_light.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ic_ab_back_holo_light.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ic_cab_done_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ic_cab_done_holo_dark.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ic_cab_done_holo_dark.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ic_cab_done_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ic_cab_done_holo_light.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ic_cab_done_holo_light.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ic_menu_moreoverflow_normal_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ic_menu_moreoverflow_normal_holo_dark.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ic_menu_moreoverflow_normal_holo_dark.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ic_menu_moreoverflow_normal_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ic_menu_moreoverflow_normal_holo_light.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ic_menu_moreoverflow_normal_holo_light.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ic_menu_share_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ic_menu_share_holo_dark.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ic_menu_share_holo_dark.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ic_menu_share_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ic_menu_share_holo_light.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__ic_menu_share_holo_light.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__list_activated_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__list_activated_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__list_activated_holo.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__list_divider_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__list_divider_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__list_divider_holo_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__list_divider_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__list_divider_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__list_divider_holo_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__list_focused_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__list_focused_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__list_focused_holo.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__list_longpressed_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__list_longpressed_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__list_longpressed_holo.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__list_pressed_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__list_pressed_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__list_pressed_holo_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__list_pressed_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__list_pressed_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__list_pressed_holo_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__list_selector_disabled_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__list_selector_disabled_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__list_selector_disabled_holo_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__list_selector_disabled_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__list_selector_disabled_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__list_selector_disabled_holo_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__menu_dropdown_panel_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__menu_dropdown_panel_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__menu_dropdown_panel_holo_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__menu_dropdown_panel_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__menu_dropdown_panel_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__menu_dropdown_panel_holo_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__progress_bg_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__progress_bg_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__progress_bg_holo_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__progress_bg_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__progress_bg_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__progress_bg_holo_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__progress_primary_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__progress_primary_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__progress_primary_holo_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__progress_primary_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__progress_primary_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__progress_primary_holo_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__progress_secondary_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__progress_secondary_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__progress_secondary_holo_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__progress_secondary_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__progress_secondary_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__progress_secondary_holo_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_48_inner_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__spinner_48_inner_holo.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__spinner_48_inner_holo.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_48_outer_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__spinner_48_outer_holo.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__spinner_48_outer_holo.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_default_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__spinner_ab_default_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__spinner_ab_default_holo_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_default_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__spinner_ab_default_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__spinner_ab_default_holo_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_disabled_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__spinner_ab_disabled_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__spinner_ab_disabled_holo_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_disabled_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__spinner_ab_disabled_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__spinner_ab_disabled_holo_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_focused_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__spinner_ab_focused_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__spinner_ab_focused_holo_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_focused_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__spinner_ab_focused_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__spinner_ab_focused_holo_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_pressed_holo_dark"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__spinner_ab_pressed_holo_dark.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__spinner_ab_pressed_holo_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_pressed_holo_light"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__spinner_ab_pressed_holo_light.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__spinner_ab_pressed_holo_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__tab_selected_focused_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__tab_selected_focused_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__tab_selected_focused_holo.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__tab_selected_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__tab_selected_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__tab_selected_holo.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__tab_selected_pressed_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__tab_selected_pressed_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__tab_selected_pressed_holo.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__tab_unselected_pressed_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__tab_unselected_pressed_holo.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/drawable-xhdpi/abs__tab_unselected_pressed_holo.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__action_bar_home"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/abs__action_bar_home.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/abs__action_bar_home.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abs__action_bar_tab"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/abs__action_bar_tab.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/abs__action_bar_tab.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abs__action_bar_tab_bar_view"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/abs__action_bar_tab_bar_view.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/abs__action_bar_tab_bar_view.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abs__action_bar_title_item"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/abs__action_bar_title_item.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/abs__action_bar_title_item.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abs__action_menu_item_layout"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/abs__action_menu_item_layout.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/abs__action_menu_item_layout.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abs__action_menu_layout"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/abs__action_menu_layout.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/abs__action_menu_layout.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abs__action_mode_bar"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/abs__action_mode_bar.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/abs__action_mode_bar.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abs__action_mode_close_item"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/abs__action_mode_close_item.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/abs__action_mode_close_item.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abs__activity_chooser_view"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/abs__activity_chooser_view.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/abs__activity_chooser_view.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abs__activity_chooser_view_list_item"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/abs__activity_chooser_view_list_item.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/abs__activity_chooser_view_list_item.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abs__dialog_title_holo"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/abs__dialog_title_holo.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/abs__dialog_title_holo.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abs__list_menu_item_checkbox"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/abs__list_menu_item_checkbox.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/abs__list_menu_item_checkbox.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abs__list_menu_item_icon"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/abs__list_menu_item_icon.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/abs__list_menu_item_icon.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abs__list_menu_item_layout"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/abs__list_menu_item_layout.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/abs__list_menu_item_layout.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abs__list_menu_item_radio"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/abs__list_menu_item_radio.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/abs__list_menu_item_radio.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abs__popup_menu_item_layout"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/abs__popup_menu_item_layout.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/abs__popup_menu_item_layout.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abs__screen_action_bar"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/abs__screen_action_bar.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/abs__screen_action_bar.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abs__screen_action_bar_overlay"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/abs__screen_action_bar_overlay.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/abs__screen_action_bar_overlay.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abs__screen_simple"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/abs__screen_simple.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/abs__screen_simple.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abs__screen_simple_overlay_action_mode"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/abs__screen_simple_overlay_action_mode.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/abs__screen_simple_overlay_action_mode.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="sherlock_spinner_dropdown_item"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/sherlock_spinner_dropdown_item.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/sherlock_spinner_dropdown_item.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="sherlock_spinner_item"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/sherlock_spinner_item.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout/sherlock_spinner_item.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abs__action_mode_close_item"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout-large/abs__action_mode_close_item.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout-large/abs__action_mode_close_item.xml"
                 qualifiers="large"
                 type="layout" />
             <file
                 name="sherlock_spinner_dropdown_item"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout-v14/sherlock_spinner_dropdown_item.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout-v14/sherlock_spinner_dropdown_item.xml"
                 qualifiers="v14"
                 type="layout" />
             <file
                 name="sherlock_spinner_item"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout-v14/sherlock_spinner_item.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout-v14/sherlock_spinner_item.xml"
                 qualifiers="v14"
                 type="layout" />
             <file
                 name="abs__screen_action_bar"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout-xlarge/abs__screen_action_bar.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout-xlarge/abs__screen_action_bar.xml"
                 qualifiers="xlarge"
                 type="layout" />
             <file
                 name="abs__screen_action_bar_overlay"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout-xlarge/abs__screen_action_bar_overlay.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/layout-xlarge/abs__screen_action_bar_overlay.xml"
                 qualifiers="xlarge"
                 type="layout" />
             <file
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/values/values.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/values/values.xml"
                 qualifiers="" >
 
                 <style
@@ -3433,7 +3433,7 @@ false
                     format="dimension" />
             </file>
             <file
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/values-land/values.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/values-land/values.xml"
                 qualifiers="land" >
                 <dimen name="abs__action_bar_icon_vertical_padding" >4dip
                 </dimen>
@@ -3449,7 +3449,7 @@ false
                 </dimen>
             </file>
             <file
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/values-large/values.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/values-large/values.xml"
                 qualifiers="large" >
                 <item
                     name="abs__dialog_min_width_major"
@@ -3463,7 +3463,7 @@ false
                 </item>
             </file>
             <file
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/values-large-hdpi-1024x600/values.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/values-large-hdpi-1024x600/values.xml"
                 qualifiers="large-hdpi-1024x600" >
                 <dimen name="abs__action_bar_subtitle_bottom_margin" >5dip
                 </dimen>
@@ -3479,7 +3479,7 @@ false
                 </dimen>
             </file>
             <file
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/values-large-land-hdpi-1024x600/values.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/values-large-land-hdpi-1024x600/values.xml"
                 qualifiers="large-land-hdpi-1024x600" >
                 <dimen name="abs__action_bar_title_text_size" >16dp
                 </dimen>
@@ -3495,7 +3495,7 @@ false
                 </dimen>
             </file>
             <file
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/values-large-land-mdpi-1024x600/values.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/values-large-land-mdpi-1024x600/values.xml"
                 qualifiers="large-land-mdpi-1024x600" >
                 <dimen name="abs__action_bar_default_height" >48dip
                 </dimen>
@@ -3511,7 +3511,7 @@ false
                 </dimen>
             </file>
             <file
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/values-large-mdpi-1024x600/values.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/values-large-mdpi-1024x600/values.xml"
                 qualifiers="large-mdpi-1024x600" >
                 <dimen name="abs__action_bar_subtitle_bottom_margin" >9dip
                 </dimen>
@@ -3529,7 +3529,7 @@ false
                 </dimen>
             </file>
             <file
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/values-sw600dp/values.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/values-sw600dp/values.xml"
                 qualifiers="sw600dp" >
                 <dimen name="abs__action_bar_title_text_size" >18dp
                 </dimen>
@@ -3556,7 +3556,7 @@ false
                 </bool>
             </file>
             <file
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/values-v11/values.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/values-v11/values.xml"
                 qualifiers="v11" >
 
                 <style
@@ -3582,7 +3582,7 @@ false
                 </style>
             </file>
             <file
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/values-v14/values.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/values-v14/values.xml"
                 qualifiers="v14" >
 
                 <style
@@ -3838,14 +3838,14 @@ true
                     parent="android:TextAppearance.Holo.Widget.ActionMode.Title" />
             </file>
             <file
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/values-w360dp/values.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/values-w360dp/values.xml"
                 qualifiers="w360dp" >
                 <integer name="abs__max_action_buttons" >
 3
                 </integer>
             </file>
             <file
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/values-w480dp/values.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/values-w480dp/values.xml"
                 qualifiers="w480dp" >
                 <bool name="abs__config_allowActionMenuItemTextWithIcon" >
 true
@@ -3858,21 +3858,21 @@ true
                 </bool>
             </file>
             <file
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/values-w500dp/values.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/values-w500dp/values.xml"
                 qualifiers="w500dp" >
                 <integer name="abs__max_action_buttons" >
 4
                 </integer>
             </file>
             <file
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/values-w600dp/values.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/values-w600dp/values.xml"
                 qualifiers="w600dp" >
                 <integer name="abs__max_action_buttons" >
 5
                 </integer>
             </file>
             <file
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/values-xlarge/values.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/ActionBarSherlock.aar/res/values-xlarge/values.xml"
                 qualifiers="xlarge" >
                 <item
                     name="abs__dialog_min_width_minor"
@@ -3905,768 +3905,768 @@ true
         </source>
     </dataSet>
     <dataSet config="stopwatch-Endpoints.aar" >
-        <source path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/stopwatch-Endpoints.aar/res" >
+        <source path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/stopwatch-Endpoints.aar/res" >
             <file
                 name="activity_register"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/exploded-bundles/stopwatch-Endpoints.aar/res/layout/activity_register.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/build/exploded-bundles/stopwatch-Endpoints.aar/res/layout/activity_register.xml"
                 qualifiers=""
                 type="layout" />
         </source>
     </dataSet>
     <dataSet config="main" >
-        <source path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res" >
+        <source path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res" >
             <file
                 name="blue_button_bg_color"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable/blue_button_bg_color.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable/blue_button_bg_color.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="blue_button_landscape_bg_color"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable/blue_button_landscape_bg_color.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable/blue_button_landscape_bg_color.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="blue_button_landscape_text_color"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable/blue_button_landscape_text_color.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable/blue_button_landscape_text_color.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="blue_button_text_color"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable/blue_button_text_color.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable/blue_button_text_color.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="pressed_background_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable/pressed_background_theme_usw.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable/pressed_background_theme_usw.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="progress_horizontal_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable/progress_horizontal_theme_usw.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable/progress_horizontal_theme_usw.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="red_button_bg_color"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable/red_button_bg_color.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable/red_button_bg_color.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="red_button_landscape_bg_color"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable/red_button_landscape_bg_color.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable/red_button_landscape_bg_color.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="red_button_landscape_text_color"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable/red_button_landscape_text_color.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable/red_button_landscape_text_color.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="red_button_text_color"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable/red_button_text_color.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable/red_button_text_color.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="selectable_background_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable/selectable_background_theme_usw.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable/selectable_background_theme_usw.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="settimebutton_animation"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable/settimebutton_animation.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable/settimebutton_animation.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="spinner_background_ab_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable/spinner_background_ab_theme_usw.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable/spinner_background_ab_theme_usw.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="tab_indicator_ab_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable/tab_indicator_ab_theme_usw.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable/tab_indicator_ab_theme_usw.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="ab_bottom_solid_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-hdpi/ab_bottom_solid_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-hdpi/ab_bottom_solid_theme_usw.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="ab_solid_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-hdpi/ab_solid_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-hdpi/ab_solid_theme_usw.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="ab_stacked_solid_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-hdpi/ab_stacked_solid_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-hdpi/ab_stacked_solid_theme_usw.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="ab_transparent_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-hdpi/ab_transparent_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-hdpi/ab_transparent_theme_usw.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="audio_off"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-hdpi/audio_off.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-hdpi/audio_off.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="audio_on"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-hdpi/audio_on.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-hdpi/audio_on.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="divider_vertical"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-hdpi/divider_vertical.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-hdpi/divider_vertical.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="divider_vertical_blue"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-hdpi/divider_vertical_blue.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-hdpi/divider_vertical_blue.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="divider_vertical_grey"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-hdpi/divider_vertical_grey.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-hdpi/divider_vertical_grey.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="divider_vertical_lightgrey"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-hdpi/divider_vertical_lightgrey.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-hdpi/divider_vertical_lightgrey.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="icon"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-hdpi/icon.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-hdpi/icon.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="icon_ab"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-hdpi/icon_ab.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-hdpi/icon_ab.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="icon_laptime"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-hdpi/icon_laptime.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-hdpi/icon_laptime.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="laptime_divider_grey"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-hdpi/laptime_divider_grey.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-hdpi/laptime_divider_grey.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="list_focused_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-hdpi/list_focused_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-hdpi/list_focused_theme_usw.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="menu_dropdown_panel_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-hdpi/menu_dropdown_panel_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-hdpi/menu_dropdown_panel_theme_usw.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="menu_hardkey_panel_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-hdpi/menu_hardkey_panel_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-hdpi/menu_hardkey_panel_theme_usw.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="notification_icon"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-hdpi/notification_icon.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-hdpi/notification_icon.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="progress_bg_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-hdpi/progress_bg_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-hdpi/progress_bg_theme_usw.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="progress_primary_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-hdpi/progress_primary_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-hdpi/progress_primary_theme_usw.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="progress_secondary_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-hdpi/progress_secondary_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-hdpi/progress_secondary_theme_usw.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="reset_time"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-hdpi/reset_time.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-hdpi/reset_time.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="spinner_ab_default_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-hdpi/spinner_ab_default_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-hdpi/spinner_ab_default_theme_usw.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="spinner_ab_disabled_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-hdpi/spinner_ab_disabled_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-hdpi/spinner_ab_disabled_theme_usw.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="spinner_ab_focused_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-hdpi/spinner_ab_focused_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-hdpi/spinner_ab_focused_theme_usw.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="spinner_ab_pressed_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-hdpi/spinner_ab_pressed_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-hdpi/spinner_ab_pressed_theme_usw.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="tab_selected_focused_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-hdpi/tab_selected_focused_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-hdpi/tab_selected_focused_theme_usw.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="tab_selected_pressed_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-hdpi/tab_selected_pressed_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-hdpi/tab_selected_pressed_theme_usw.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="tab_selected_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-hdpi/tab_selected_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-hdpi/tab_selected_theme_usw.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="tab_unselected_focused_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-hdpi/tab_unselected_focused_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-hdpi/tab_unselected_focused_theme_usw.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="tab_unselected_pressed_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-hdpi/tab_unselected_pressed_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-hdpi/tab_unselected_pressed_theme_usw.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="notification_icon"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-hdpi-v11/notification_icon.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-hdpi-v11/notification_icon.png"
                 qualifiers="hdpi-v11"
                 type="drawable" />
             <file
                 name="notification_icon"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-hdpi-v9/notification_icon.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-hdpi-v9/notification_icon.png"
                 qualifiers="hdpi-v9"
                 type="drawable" />
             <file
                 name="ab_bottom_solid_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-mdpi/ab_bottom_solid_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-mdpi/ab_bottom_solid_theme_usw.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="ab_solid_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-mdpi/ab_solid_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-mdpi/ab_solid_theme_usw.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="ab_stacked_solid_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-mdpi/ab_stacked_solid_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-mdpi/ab_stacked_solid_theme_usw.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="ab_transparent_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-mdpi/ab_transparent_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-mdpi/ab_transparent_theme_usw.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="icon"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-mdpi/icon.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-mdpi/icon.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="list_focused_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-mdpi/list_focused_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-mdpi/list_focused_theme_usw.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="menu_dropdown_panel_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-mdpi/menu_dropdown_panel_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-mdpi/menu_dropdown_panel_theme_usw.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="menu_hardkey_panel_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-mdpi/menu_hardkey_panel_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-mdpi/menu_hardkey_panel_theme_usw.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="progress_bg_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-mdpi/progress_bg_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-mdpi/progress_bg_theme_usw.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="progress_primary_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-mdpi/progress_primary_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-mdpi/progress_primary_theme_usw.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="progress_secondary_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-mdpi/progress_secondary_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-mdpi/progress_secondary_theme_usw.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="resetbutton"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-mdpi/resetbutton.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-mdpi/resetbutton.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="resetbutton_sel"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-mdpi/resetbutton_sel.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-mdpi/resetbutton_sel.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="resetbutton_selector"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-mdpi/resetbutton_selector.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-mdpi/resetbutton_selector.xml"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="spinner_ab_default_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-mdpi/spinner_ab_default_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-mdpi/spinner_ab_default_theme_usw.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="spinner_ab_disabled_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-mdpi/spinner_ab_disabled_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-mdpi/spinner_ab_disabled_theme_usw.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="spinner_ab_focused_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-mdpi/spinner_ab_focused_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-mdpi/spinner_ab_focused_theme_usw.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="spinner_ab_pressed_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-mdpi/spinner_ab_pressed_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-mdpi/spinner_ab_pressed_theme_usw.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="tab_selected_focused_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-mdpi/tab_selected_focused_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-mdpi/tab_selected_focused_theme_usw.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="tab_selected_pressed_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-mdpi/tab_selected_pressed_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-mdpi/tab_selected_pressed_theme_usw.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="tab_selected_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-mdpi/tab_selected_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-mdpi/tab_selected_theme_usw.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="tab_unselected_focused_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-mdpi/tab_unselected_focused_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-mdpi/tab_unselected_focused_theme_usw.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="tab_unselected_pressed_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-mdpi/tab_unselected_pressed_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-mdpi/tab_unselected_pressed_theme_usw.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="timepicker_down_btn"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-mdpi/timepicker_down_btn.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-mdpi/timepicker_down_btn.xml"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="timepicker_down_disabled"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-mdpi/timepicker_down_disabled.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-mdpi/timepicker_down_disabled.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="timepicker_down_disabled_focused"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-mdpi/timepicker_down_disabled_focused.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-mdpi/timepicker_down_disabled_focused.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="timepicker_down_normal"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-mdpi/timepicker_down_normal.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-mdpi/timepicker_down_normal.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="timepicker_down_pressed"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-mdpi/timepicker_down_pressed.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-mdpi/timepicker_down_pressed.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="timepicker_down_selected"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-mdpi/timepicker_down_selected.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-mdpi/timepicker_down_selected.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="timepicker_up_btn"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-mdpi/timepicker_up_btn.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-mdpi/timepicker_up_btn.xml"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="timepicker_up_disabled"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-mdpi/timepicker_up_disabled.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-mdpi/timepicker_up_disabled.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="timepicker_up_disabled_focused"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-mdpi/timepicker_up_disabled_focused.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-mdpi/timepicker_up_disabled_focused.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="timepicker_up_normal"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-mdpi/timepicker_up_normal.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-mdpi/timepicker_up_normal.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="timepicker_up_pressed"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-mdpi/timepicker_up_pressed.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-mdpi/timepicker_up_pressed.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="timepicker_up_selected"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-mdpi/timepicker_up_selected.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-mdpi/timepicker_up_selected.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="background1000"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-nodpi/background1000.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-nodpi/background1000.png"
                 qualifiers="nodpi"
                 type="drawable" />
             <file
                 name="background1000_cd"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-nodpi/background1000_cd.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-nodpi/background1000_cd.png"
                 qualifiers="nodpi"
                 type="drawable" />
             <file
                 name="background150"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-nodpi/background150.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-nodpi/background150.png"
                 qualifiers="nodpi"
                 type="drawable" />
             <file
                 name="background150_cd"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-nodpi/background150_cd.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-nodpi/background150_cd.png"
                 qualifiers="nodpi"
                 type="drawable" />
             <file
                 name="background240"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-nodpi/background240.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-nodpi/background240.png"
                 qualifiers="nodpi"
                 type="drawable" />
             <file
                 name="background240_cd"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-nodpi/background240_cd.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-nodpi/background240_cd.png"
                 qualifiers="nodpi"
                 type="drawable" />
             <file
                 name="background320"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-nodpi/background320.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-nodpi/background320.png"
                 qualifiers="nodpi"
                 type="drawable" />
             <file
                 name="background320_cd"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-nodpi/background320_cd.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-nodpi/background320_cd.png"
                 qualifiers="nodpi"
                 type="drawable" />
             <file
                 name="background460"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-nodpi/background460.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-nodpi/background460.png"
                 qualifiers="nodpi"
                 type="drawable" />
             <file
                 name="background460_cd"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-nodpi/background460_cd.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-nodpi/background460_cd.png"
                 qualifiers="nodpi"
                 type="drawable" />
             <file
                 name="background590"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-nodpi/background590.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-nodpi/background590.png"
                 qualifiers="nodpi"
                 type="drawable" />
             <file
                 name="background590_cd"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-nodpi/background590_cd.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-nodpi/background590_cd.png"
                 qualifiers="nodpi"
                 type="drawable" />
             <file
                 name="background720"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-nodpi/background720.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-nodpi/background720.png"
                 qualifiers="nodpi"
                 type="drawable" />
             <file
                 name="background720_cd"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-nodpi/background720_cd.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-nodpi/background720_cd.png"
                 qualifiers="nodpi"
                 type="drawable" />
             <file
                 name="minhand"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-nodpi/minhand.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-nodpi/minhand.png"
                 qualifiers="nodpi"
                 type="drawable" />
             <file
                 name="minhand_cd"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-nodpi/minhand_cd.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-nodpi/minhand_cd.png"
                 qualifiers="nodpi"
                 type="drawable" />
             <file
                 name="sechand"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-nodpi/sechand.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-nodpi/sechand.png"
                 qualifiers="nodpi"
                 type="drawable" />
             <file
                 name="sechand_cd"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-nodpi/sechand_cd.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-nodpi/sechand_cd.png"
                 qualifiers="nodpi"
                 type="drawable" />
             <file
                 name="ab_bottom_solid_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-xhdpi/ab_bottom_solid_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-xhdpi/ab_bottom_solid_theme_usw.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="ab_solid_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-xhdpi/ab_solid_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-xhdpi/ab_solid_theme_usw.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="ab_stacked_solid_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-xhdpi/ab_stacked_solid_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-xhdpi/ab_stacked_solid_theme_usw.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="ab_transparent_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-xhdpi/ab_transparent_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-xhdpi/ab_transparent_theme_usw.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="icon"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-xhdpi/icon.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-xhdpi/icon.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="list_focused_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-xhdpi/list_focused_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-xhdpi/list_focused_theme_usw.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="menu_dropdown_panel_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-xhdpi/menu_dropdown_panel_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-xhdpi/menu_dropdown_panel_theme_usw.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="menu_hardkey_panel_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-xhdpi/menu_hardkey_panel_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-xhdpi/menu_hardkey_panel_theme_usw.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="progress_bg_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-xhdpi/progress_bg_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-xhdpi/progress_bg_theme_usw.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="progress_primary_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-xhdpi/progress_primary_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-xhdpi/progress_primary_theme_usw.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="progress_secondary_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-xhdpi/progress_secondary_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-xhdpi/progress_secondary_theme_usw.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="spinner_ab_default_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-xhdpi/spinner_ab_default_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-xhdpi/spinner_ab_default_theme_usw.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="spinner_ab_disabled_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-xhdpi/spinner_ab_disabled_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-xhdpi/spinner_ab_disabled_theme_usw.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="spinner_ab_focused_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-xhdpi/spinner_ab_focused_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-xhdpi/spinner_ab_focused_theme_usw.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="spinner_ab_pressed_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-xhdpi/spinner_ab_pressed_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-xhdpi/spinner_ab_pressed_theme_usw.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="tab_selected_focused_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-xhdpi/tab_selected_focused_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-xhdpi/tab_selected_focused_theme_usw.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="tab_selected_pressed_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-xhdpi/tab_selected_pressed_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-xhdpi/tab_selected_pressed_theme_usw.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="tab_selected_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-xhdpi/tab_selected_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-xhdpi/tab_selected_theme_usw.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="tab_unselected_focused_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-xhdpi/tab_unselected_focused_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-xhdpi/tab_unselected_focused_theme_usw.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="tab_unselected_pressed_theme_usw"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-xhdpi/tab_unselected_pressed_theme_usw.9.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-xhdpi/tab_unselected_pressed_theme_usw.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="icon"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/drawable-xxhdpi/icon.png"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/drawable-xxhdpi/icon.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="action_bar_settime_animation"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/layout/action_bar_settime_animation.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/layout/action_bar_settime_animation.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="activity_register"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/layout/activity_register.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/layout/activity_register.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="countdown"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/layout/countdown.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/layout/countdown.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="countdown_fragment"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/layout/countdown_fragment.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/layout/countdown_fragment.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="countdown_picker"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/layout/countdown_picker.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/layout/countdown_picker.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="laptime_item"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/layout/laptime_item.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/layout/laptime_item.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="laptimes_fragment"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/layout/laptimes_fragment.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/layout/laptimes_fragment.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="laptimes_holder_list_item"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/layout/laptimes_holder_list_item.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/layout/laptimes_holder_list_item.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="laptimes_layout"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/layout/laptimes_layout.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/layout/laptimes_layout.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="main"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/layout/main.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/layout/main.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="settings"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/layout/settings.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/layout/settings.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="stopwatch_fragment"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/layout/stopwatch_fragment.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/layout/stopwatch_fragment.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="countdown_fragment"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/layout-land/countdown_fragment.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/layout-land/countdown_fragment.xml"
                 qualifiers="land"
                 type="layout" />
             <file
                 name="laptime_item"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/layout-land/laptime_item.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/layout-land/laptime_item.xml"
                 qualifiers="land"
                 type="layout" />
             <file
                 name="main"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/layout-land/main.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/layout-land/main.xml"
                 qualifiers="land"
                 type="layout" />
             <file
                 name="stopwatch_fragment"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/layout-land/stopwatch_fragment.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/layout-land/stopwatch_fragment.xml"
                 qualifiers="land"
                 type="layout" />
             <file
                 name="laptime_item"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/layout-land-v11/laptime_item.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/layout-land-v11/laptime_item.xml"
                 qualifiers="land-v11"
                 type="layout" />
             <file
                 name="laptime_item"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/layout-v11/laptime_item.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/layout-v11/laptime_item.xml"
                 qualifiers="v11"
                 type="layout" />
             <file
                 name="settings"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/layout-v14/settings.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/layout-v14/settings.xml"
                 qualifiers="v14"
                 type="layout" />
             <file
                 name="menu_countdown"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/menu/menu_countdown.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/menu/menu_countdown.xml"
                 qualifiers=""
                 type="menu" />
             <file
                 name="menu_laptimes"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/menu/menu_laptimes.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/menu/menu_laptimes.xml"
                 qualifiers=""
                 type="menu" />
             <file
                 name="menu_laptimes_contextual"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/menu/menu_laptimes_contextual.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/menu/menu_laptimes_contextual.xml"
                 qualifiers=""
                 type="menu" />
             <file
                 name="menu_stopwatch"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/menu/menu_stopwatch.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/menu/menu_stopwatch.xml"
                 qualifiers=""
                 type="menu" />
             <file
                 name="countdown_alarm"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/raw/countdown_alarm.mp3"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/raw/countdown_alarm.mp3"
                 qualifiers=""
                 type="raw" />
             <file
                 name="lap_time"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/raw/lap_time.mp3"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/raw/lap_time.mp3"
                 qualifiers=""
                 type="raw" />
             <file
                 name="reset_watch"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/raw/reset_watch.mp3"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/raw/reset_watch.mp3"
                 qualifiers=""
                 type="raw" />
             <file
                 name="start"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/raw/start.mp3"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/raw/start.mp3"
                 qualifiers=""
                 type="raw" />
             <file
                 name="stop"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/raw/stop.mp3"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/raw/stop.mp3"
                 qualifiers=""
                 type="raw" />
             <file
                 name="tok_repeatit"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/raw/tok_repeatit.mp3"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/raw/tok_repeatit.mp3"
                 qualifiers=""
                 type="raw" />
             <file
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/values/attrs.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/values/attrs.xml"
                 qualifiers="" >
                 <declare-styleable name="StopwatchCustomView" >
                     <attr
@@ -4682,7 +4682,7 @@ true
                 </declare-styleable>
             </file>
             <file
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/values/colors.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/values/colors.xml"
                 qualifiers="" >
                 <color name="button_text_grey" >#999999
                 </color>
@@ -4726,7 +4726,7 @@ true
                 </color>
             </file>
             <file
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/values/dimens.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/values/dimens.xml"
                 qualifiers="" >
                 <dimen name="small_font" >14sp
                 </dimen>
@@ -4746,7 +4746,7 @@ true
                 </dimen>
             </file>
             <file
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/values/strings.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/values/strings.xml"
                 qualifiers="" >
                 <string name="settings_about" >ABOUT
                 </string>
@@ -4836,7 +4836,7 @@ true
                 </string>
             </file>
             <file
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/values/styles.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/values/styles.xml"
                 qualifiers="" >
 
                 <style name="TimeTextDarkThemeLight" >
@@ -4864,7 +4864,7 @@ true
                 </style>
             </file>
             <file
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/values/styles_theme_usw.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/values/styles_theme_usw.xml"
                 qualifiers="" >
 
                 <style
@@ -5071,7 +5071,7 @@ true
                 </style>
             </file>
             <file
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/values-hdpi/dimens.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/values-hdpi/dimens.xml"
                 qualifiers="hdpi" >
                 <dimen name="reset_btn_size" >72dp
                 </dimen>
@@ -5081,13 +5081,13 @@ true
                 </dimen>
             </file>
             <file
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/values-land/dimens.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/values-land/dimens.xml"
                 qualifiers="land" >
                 <dimen name="reset_btn_size" >48dp
                 </dimen>
             </file>
             <file
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/values-large-hdpi/dimens.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/values-large-hdpi/dimens.xml"
                 qualifiers="large-hdpi" >
                 <dimen name="counter_font" >60sp
                 </dimen>
@@ -5095,7 +5095,7 @@ true
                 </dimen>
             </file>
             <file
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/values-ldpi/dimens.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/values-ldpi/dimens.xml"
                 qualifiers="ldpi" >
                 <dimen name="launchtext_size" >30sp
                 </dimen>
@@ -5107,7 +5107,7 @@ true
                 </dimen>
             </file>
             <file
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/values-mdpi/dimens.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/values-mdpi/dimens.xml"
                 qualifiers="mdpi" >
                 <dimen name="reset_btn_size" >48dp
                 </dimen>
@@ -5119,13 +5119,13 @@ true
                 </dimen>
             </file>
             <file
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/values-v11/styles.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/values-v11/styles.xml"
                 qualifiers="v11" />
             <file
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/values-v13/styles.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/values-v13/styles.xml"
                 qualifiers="v13" />
             <file
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/values-xhdpi/dimens.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/values-xhdpi/dimens.xml"
                 qualifiers="xhdpi" >
                 <dimen name="frame_padding" >1dp
                 </dimen>
@@ -5139,7 +5139,7 @@ true
                 </dimen>
             </file>
             <file
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/values-xlarge/dimens.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/values-xlarge/dimens.xml"
                 qualifiers="xlarge" >
                 <dimen name="reset_btn_size" >72dp
                 </dimen>
@@ -5155,16 +5155,16 @@ true
                 </dimen>
             </file>
             <file
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/main/res/values-xlarge-land/dimens.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch/src/main/res/values-xlarge-land/dimens.xml"
                 qualifiers="xlarge-land" >
                 <dimen name="reset_btn_size" >72dp
                 </dimen>
             </file>
         </source>
-        <source path="/Users/bma/Desktop/StopwatchProject/stopwatch/build/res/rs/debug" />
+        <source path="/Users/bma/Projects/stopwatchio13/stopwatch/build/res/rs/debug" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/Users/bma/Desktop/StopwatchProject/stopwatch/src/debug/res" />
+        <source path="/Users/bma/Projects/stopwatchio13/stopwatch/src/debug/res" />
     </dataSet>
 
 </merger>

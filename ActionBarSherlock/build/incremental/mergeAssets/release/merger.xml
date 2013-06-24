@@ -2,10 +2,10 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="/Users/bma/Desktop/StopwatchProject/ActionBarSherlock/src/main/assets" />
+        <source path="/Users/bma/Projects/stopwatchio13/ActionBarSherlock/src/main/assets" />
     </dataSet>
     <dataSet config="release" >
-        <source path="/Users/bma/Desktop/StopwatchProject/ActionBarSherlock/src/release/assets" />
+        <source path="/Users/bma/Projects/stopwatchio13/ActionBarSherlock/src/release/assets" />
     </dataSet>
 
 </merger>

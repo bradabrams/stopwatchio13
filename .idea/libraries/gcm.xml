@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="gcm">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/stopwatch-Endpoints/libs/gcm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/stopwatch/build/exploded-bundles/stopwatch-Endpoints.aar/libs/gcm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

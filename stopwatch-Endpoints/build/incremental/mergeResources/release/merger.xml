@@ -2,17 +2,17 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="/Users/bma/Desktop/StopwatchProject/stopwatch-Endpoints/src/main/res" >
+        <source path="/Users/bma/Projects/stopwatchio13/stopwatch-Endpoints/src/main/res" >
             <file
                 name="activity_register"
-                path="/Users/bma/Desktop/StopwatchProject/stopwatch-Endpoints/src/main/res/layout/activity_register.xml"
+                path="/Users/bma/Projects/stopwatchio13/stopwatch-Endpoints/src/main/res/layout/activity_register.xml"
                 qualifiers=""
                 type="layout" />
         </source>
-        <source path="/Users/bma/Desktop/StopwatchProject/stopwatch-Endpoints/build/res/rs/release" />
+        <source path="/Users/bma/Projects/stopwatchio13/stopwatch-Endpoints/build/res/rs/release" />
     </dataSet>
     <dataSet config="release" >
-        <source path="/Users/bma/Desktop/StopwatchProject/stopwatch-Endpoints/src/release/res" />
+        <source path="/Users/bma/Projects/stopwatchio13/stopwatch-Endpoints/src/release/res" />
     </dataSet>
 
 </merger>

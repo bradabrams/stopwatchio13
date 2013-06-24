@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="stopwatch-Endpoints.aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/stopwatch/build/exploded-bundles/stopwatch-Endpoints.aar/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
